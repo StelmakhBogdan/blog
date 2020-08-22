@@ -2,12 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
----------------------------  Creating Blog. ---------------------------.
+---------------------------  Creating Blog. ---------------------------
+
 Using npm i nextjs-progressbar for Custom loading.
 Using Styled-Components for styled this blog.
 install npm install dotenv for .env .
 
----------------------------- BUG WITH API -----------------------.
+---------------------------- BUG WITH API -----------------------
+
 Empty comments-array on GET POST request .
 (new comments saved to database but not visible through GET POST request, except the old which wasen't created by me).
 
